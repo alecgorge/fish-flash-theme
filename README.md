@@ -4,7 +4,7 @@
 
 # :zap: _Flash_
 
-> Flash Inspired [Fishshell](fishshell.com) Theme
+> [Fishshell](fishshell.com) Theme inspired by the Flash.
 
 ## Features
 
