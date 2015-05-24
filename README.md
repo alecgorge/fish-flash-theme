@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Wahoo-Theme-00b0ff.svg?style=flat-square)
+[![](https://img.shields.io/badge/Wahoo-Theme-00b0ff.svg?style=flat-square)][Wahoo]
 ![](https://img.shields.io/badge/License-MIT-707070.svg?style=flat-square)
 
 
@@ -45,3 +45,4 @@ _From left to right:_
 
 [MIT](http://opensource.org/licenses/MIT) © [Jorge Bucaran][Author] et [al](https://github.com/bucaran/batman/graphs/contributors)
 [Author]: http://about.bucaran.me
+[Wahoo]: https://github.com/bucaran/wahoo
