@@ -11,7 +11,7 @@ function fish_prompt
   set -l code $status
 
   set -l prompt (prompt_pwd)
-  set -l base (basename (prompt_pwd))
+  set -l base (basename "$prompt")
 
   printf (snd)"( "(begin
     if test "$PWD" = "/"
@@ -19,7 +19,7 @@ function fish_prompt
     else
       echo ""
     end
-  end)(echo $prompt \
+  end)(echo "$prompt" \
   | sed "s|~|"(begin
       test $code -eq 0; and echo (fst); or echo (dim)
     end)"⌁"(off)"|g" \
