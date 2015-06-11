@@ -1,10 +1,10 @@
-[![](https://img.shields.io/badge/Wahoo-Theme-00b0ff.svg?style=flat-square)][Wahoo]
+[![](https://img.shields.io/badge/Themes-Wahoo-00b0ff.svg?style=flat-square)][Wahoo]
 ![](https://img.shields.io/badge/License-MIT-707070.svg?style=flat-square)
 
 
 # :zap: _Flash_
 
-> [Fishshell](fishshell.com) Theme inspired by the Flash.
+> Theme for [Fishshell](fishshell.com) inspired by the Flash.
 
 ## Features
 
