@@ -1,10 +1,13 @@
-[![](https://img.shields.io/badge/Themes-Wahoo-00b0ff.svg?style=flat-square)][Wahoo]
-![](https://img.shields.io/badge/License-MIT-707070.svg?style=flat-square)
+[![Slack Room][slack-badge]][slack-link]
 
+# Flash
 
-# :zap: _Flash_
+<p align="center">
+<img src="https://cloud.githubusercontent.com/assets/8317250/7787558/fb091794-024d-11e5-815b-cf3b6b2e5217.png">
+</p>
 
-> Theme for [Fishshell](fishshell.com) inspired by the Flash.
+[slack-link]: https://fisherman-wharf.herokuapp.com/
+[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
 
 ## Features
 
@@ -22,27 +25,9 @@ _From left to right:_
 + Display current time.
 + Time separator `:` changes color to red if last `$status`  was `!=` 0.
 + Display exit status for non zero codes after `≡` character.
-+ _Flash_ inspired colors.
++ Colors inspired by _The Flash_.
 + Display the number of seconds taken by the last command executed.
 
 <p align="center">
 <img src="https://cloud.githubusercontent.com/assets/8317250/7787589/431f2efa-024f-11e5-9715-df3e1833e174.png">
 </p>
-
-## Screenshot
-
-<p align="center">
-<img src="https://cloud.githubusercontent.com/assets/8317250/7787558/fb091794-024d-11e5-815b-cf3b6b2e5217.png">
-</p>
-
-
-
-
-# License
-
-> __Disclaimer:__ This work is not intended to infringe on any rights by and of the companies and/or individuals involved in the production of any series mentioned here. I don't own the Flash.
-
-
-[MIT](http://opensource.org/licenses/MIT) © [Jorge Bucaran][Author] et [al](https://github.com/bucaran/batman/graphs/contributors)
-[Author]: http://about.bucaran.me
-[Wahoo]: https://github.com/bucaran/wahoo
